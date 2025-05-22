@@ -1,3 +1,4 @@
+![logo](https://github.com/RIMSHA567/RIMSHA567/blob/main/GithubBanner.png)
 <h1 align="center">Hi 👋, I'm Rimsha Naeem</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
